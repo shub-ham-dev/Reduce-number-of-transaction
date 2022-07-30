@@ -21,7 +21,7 @@ function addNewRow() {
     '" class="form-control" placeholder="To"/>\
           </div>\
           <div class="col">\
-            <input type="number" class="form-control" placeholder="Amount Transacted" id = "amount' +
+            <input type="number" class="form-control" placeholder="Amount Pending" id = "amount' +
     counter +
     '">\
           </div>\
