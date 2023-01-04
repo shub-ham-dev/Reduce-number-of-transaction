@@ -1,3 +1,3 @@
 # Cash-Settlement
 
-##Live Link - https://cash-settlement-application.herokuapp.com/
+##Live Link - https://cash-settlement.vercel.app/
